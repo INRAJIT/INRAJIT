@@ -114,6 +114,7 @@ I build scalable, modern Android apps that grow with your business.
 - ✍️ Medium: *(https://medium.com/@rajit.raha20)*
 - 🧑‍💻 Upwork : *(https://www.upwork.com/freelancers/~01eac4e249439ddb37?viewMode=1](https://www.upwork.com/freelancers/~01eac4e249439ddb37)*
 - 🌐 Website: *(https://rajit.my.canva.site/rajitlabs)*
+- 📱 Apps Link (Which I delivered) : *(https://play.google.com/store/apps/developer?id=Collanomics+technosoft&hl=en_US)*
 - 📧 Email: *(rajit.raha20@gmail.com)*
 
 ---
