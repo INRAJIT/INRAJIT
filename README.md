@@ -15,7 +15,7 @@
 - ✍️ Technical writer on **Medium** (Android + career learnings)
 - 🛠️ Built & published **real-world apps**, not just tutorials
 - 🌱 Currently sharpening **DSA + System Design** for product-based companies
-- 🎯 Targeting **high-quality Android roles (12+ LPA)** & meaningful products
+  
 
 ---
 
