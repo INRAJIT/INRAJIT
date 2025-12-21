@@ -104,7 +104,7 @@
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: *(linkedin.com/in/rajit-raha-302bb79b/)*
-- ✍️ Medium: *((https://medium.com/@rajit.raha20))*
+- ✍️ Medium: *(https://medium.com/@rajit.raha20)*
 - 📧 Email: *(rajit.raha20@gmail.com)*
 
 ---
