@@ -106,7 +106,7 @@
 - 💼 LinkedIn: *(linkedin.com/in/rajit-raha-302bb79b/)*
 - ✍️ Medium: *(https://medium.com/@rajit.raha20)*
 - 🧑‍💻 Upwork : *(https://www.upwork.com/freelancers/~01eac4e249439ddb37?viewMode=1](https://www.upwork.com/freelancers/~01eac4e249439ddb37)*
-- 🌐 Portfolio: *(https://rajitlabs.dev](https://preview.canva.site/10ae05f4-1c24-430e-9f4b-2b3504629a4f/rajitlabs.com/)*
+- 🌐 Website: *(https://preview.canva.site/10ae05f4-1c24-430e-9f4b-2b3504629a4f/rajitlabs.com/](https://rajit.my.canva.site/rajitlabs)*
 - 📧 Email: *(rajit.raha20@gmail.com)*
 
 ---
