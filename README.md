@@ -9,12 +9,19 @@
 ## 👨‍💻 About Me
 
 - 📱 Android Developer with **4.5+ years of experience**
-- 🧠 Strong in **Kotlin, Jetpack Compose, MVVM, Clean Architecture**
+- 🧠 Strong in **Kotlin, Jetpack Compose, MVC & MVVM, Clean Architecture**
 - 🔥 Passionate about **logic building, performance optimization, and readable code**
 - 🧩 Experienced in **Firebase, Room, REST APIs, Coroutines**
 - ✍️ Technical writer on **Medium** (Android + career learnings)
 - 🛠️ Built & published **real-world apps**, not just tutorials
 - 🌱 Currently sharpening **DSA + System Design** for product-based companies
+
+  
+ ### RajitLabs – Android Development Studio
+
+I don’t just write code.  
+I build scalable, modern Android apps that grow with your business.
+
   
 
 ---
