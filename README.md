@@ -14,7 +14,7 @@
 - 🧩 Experienced in **Firebase, Room, REST APIs, Coroutines**
 - ✍️ Technical writer on **Medium** (Android + career learnings)
 - 🛠️ Built & published **real-world apps**, not just tutorials
-- 🌱 Currently sharpening **DSA + System Design** for product-based companies
+
 
   
  ### RajitLabs – Android Development Studio
