@@ -2,6 +2,8 @@
 ### Android Developer | Kotlin • Jetpack Compose • Clean Architecture | I craft Android experiences where clean architecture meets thoughtful design, and Kotlin tells the story.
 
 
+
+
 🚀 I build **scalable, clean, and user-focused Android applications** with modern Android tech.  
 💡 I believe **code is a story** — every class has a role, every function has a reason.
 
