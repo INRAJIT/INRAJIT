@@ -5,7 +5,7 @@
 
 
 🚀 I build **scalable, clean, and user-focused Android applications** with modern Android tech.  
-💡 I believe **code is a story** — every class has a role, every function has a reason.
+💡 I believe **code is a story** - every class has a role, every function has a reason.
 
 ---
 
