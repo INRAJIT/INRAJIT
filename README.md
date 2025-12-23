@@ -20,7 +20,7 @@
 
 
   
- ### RajitLabs – Android Development Studio
+ ### RajitLabs – Android Development Studio (Founded by Rajit Raha)
 
 I don’t just write code.  
 I build scalable, modern Android apps that grow with your business.
