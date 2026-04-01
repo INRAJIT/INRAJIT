@@ -9,6 +9,7 @@ I craft mobile experiences where clean architecture meets thoughtful design, and
 💡 I believe code is a story — every class has a role, every function has a reason.
 
 👨‍💻 About Me
+
 📱 Mobile Developer with 4.5+ years of experience (Android + growing in iOS & React Native)
 🧠 Strong in Kotlin, Jetpack Compose, MVVM, Clean Architecture
 🍏 Expanding expertise in iOS (Swift, Xcode, UIKit / SwiftUI basics)
@@ -63,7 +64,9 @@ REST APIs
 Git & GitHub
 Android Studio & Xcode
 Postman
+
 📱 Featured Projects
+
 🌙 Darkify – Dark Mode Utility App
 
 A clean, minimal Android app focused on UI/UX and system interactions.
@@ -80,6 +83,7 @@ API integration
 MVVM + Repository
 Error handling & loading states
 Material UI
+
 ✈️ Flight Status Tracker
 
 Check real-time flight information using flight numbers.
@@ -88,6 +92,7 @@ Clean UI
 API-based data handling
 User-friendly UX
 Optimized network calls
+
 📱 Cross-Platform / iOS Learning Projects (New 🚀)
 
 Expanding into iOS & React Native ecosystem
@@ -110,7 +115,9 @@ Real-world developer lessons
 💼 Mobile Developer roles (Android + iOS / React Native)
 🌍 Remote / Bangalore / Product-based companies
 🚀 Teams that value clean code, ownership, and growth mindset
+
 📫 Let’s Connect
+
 💼 LinkedIn: linkedin.com/in/rajit-raha-302bb79b/
 ✍️ Medium: https://medium.com/@rajit.raha20
 🧑‍💻 Upwork: https://www.upwork.com/freelancers/~01eac4e249439ddb37
