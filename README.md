@@ -108,21 +108,19 @@ Real-world developer lessons
 
 “When you understand the story behind the code, maintaining it becomes easy.”
 
-🔍 What I’m Looking For
-🤝 Collaboration on Android / iOS / Cross-platform projects
-💼 Mobile Developer roles (Android + iOS / React Native)
-🌍 Remote / Bangalore / Product-based companies
-🚀 Teams that value clean code, ownership, and growth mindset
 
 📫 Let’s Connect
 
 💼 LinkedIn: linkedin.com/in/rajit-raha-302bb79b/
+
 ✍️ Medium: https://medium.com/@rajit.raha20
+
 🧑‍💻 Upwork: https://www.upwork.com/freelancers/~01eac4e249439ddb37
+
 🌐 Website: https://rajit.my.canva.site/rajitlabs
+
 📱 Apps: https://play.google.com/store/apps/developer?id=Collanomics+technosoft
+
 📧 Email: rajit.raha20@gmail.com / rajit.raha1995@gmail.com
 
-
-I rebuilt my career during the hardest phase of life —
-which means pressure doesn’t break me, it sharpens me.
+**I rebuilt my career during the hardest phase of life — which means pressure doesn’t break me, it sharpens me.**
