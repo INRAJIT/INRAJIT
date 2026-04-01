@@ -1,5 +1,7 @@
-Hi, I’m Rajit Raha 👋
-Mobile Engineer (Android • iOS • React Native) | Kotlin • Swift • Jetpack Compose • Clean Architecture
+# Hi, I’m Rajit Raha 👋  
+
+## **Mobile Engineer (Android • iOS • React Native)**  
+### **Kotlin • Swift • Jetpack Compose • Clean Architecture**
 
 I craft mobile experiences where clean architecture meets thoughtful design, and code tells a meaningful story.
 
