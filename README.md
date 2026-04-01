@@ -25,6 +25,7 @@ I don’t just write code.
 I build scalable Android, iOS, and cross-platform apps that grow with your business.
 
 🛠️ Tech Stack
+
 Languages
 Kotlin, Java, Swift, JavaScript
 Mobile Development
