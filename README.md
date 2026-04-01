@@ -18,9 +18,7 @@ I craft mobile experiences where clean architecture meets thoughtful design, and
 🧩 Experienced in Firebase, Room, REST APIs, Coroutines
 ✍️ Technical writer on Medium (Android + career learnings)
 🛠️ Built & published real-world apps (Play Store + expanding to iOS)
-🚀 RajitLabs – Mobile Development Studio
-
-(Founded by Rajit Raha)
+🚀 RajitLabs – Mobile Development Studio (Founded by Rajit Raha)
 
 I don’t just write code.
 I build scalable Android, iOS, and cross-platform apps that grow with your business.
